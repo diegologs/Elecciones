@@ -1,0 +1,100 @@
+Esperanza Lopez Nadal;26;alcalde;M;127;4931 SCN
+Javier Ruiz Marti;50;alfarero;H;211;7832 BBD
+Manuel Valle Melero;41;amanuense;H;176;3146 YBH
+Jose Luis Plaza Carmona;26;aprendiz (de artesano);H;153;2004 WBM
+Josefa Moral Navarro;31;aprendiz de historiador;M;122;6785 XTG
+Rafael Gonzalez Navarro;61;aprendiz de sanador;H;235;8772 SSR
+Manuel Torres Revuelta;48;aprendiz de vinatero;H;69;1424 KHP
+Ana Isabel Álvarez Rodriguez;38;arpista;M;66;4055 KDS
+Inmaculada Garcia Colmenero;39;arquero;M;231;4121 TNJ
+Ana Gil Rodriguez;62;artista;M;242;9397 JTS
+Jesus Gijon Diallo;71;astrOnomo;H;105;6749 HHV
+Manuel Lopez Castellanos;58;bibliotecario;H;93;4056 ZJR
+Alberto Martin Canet;33;bibliotecario jefe;H;68;4797 CYN
+Isabel Lopez Soto;20;bufOn;M;144;5655 ZRZ
+Antonio Carracedo Yepes;66;buhonero;H;130;9346 CLD
+Carme Villegas Rodrigo;34;caballero;M;212;1580 WJR
+Maria Teresa Casado Ortega;33;calculista;M;211;2258 MFV
+Manuel Asencio Gallego;48;camarero/a;H;60;8627 DKH
+Tomas Valdes Baena;64;campeOn;H;207;9322 BKF
+Oscar Fernandez Perez;21;cantante;H;124;3473 JZJ
+Mercedes Portillo Garrigos;45;cantero;M;102;0674 DHY
+Teresa Fernandez Garcia;45;cantor;M;119;5742 GVB
+Consuelo Coca Villena;62;capitÁn;M;153;6078 DYV
+David Carro Paya;80;carcelero;H;211;5296 SLZ
+Jose Maria Rodriguez Garcia;69;carpintero;H;102;3490 RHZ
+Jose Luis Carpio Campos;60;carpintero de barcos;H;81;8290 PNR
+Beatriz Sanchez Artiles;22;cocinero;M;92;6529 WBN
+Maria Mar Bautista Poza;29;comandante;M;88;3512 JJX
+Oriol Lucas Rosado;73;comediante/a;H;78;1108 XWG
+Ramon Lopez Serrano;66;comerciante;H;117;1590 PZX
+Maria Ángeles Calleja Izquierdo;55;compositor;M;180;0551 WRV
+Antonio Sabater Diaz;46;consejero jefe;H;237;2229 TNW
+Juan Jose Gil Cabrera;42;consejero/a;H;140;7151 HBS
+Maria Dolores Zambrana Mestre;69;cornetIn;M;113;6646 YLS
+Maria Josefa Moreno Diaz;31;criado/a;M;227;5931 SWB
+Joaquin Del Hoyo Saiz;37;cuentacuentos;H;63;9884 RKZ
+Maria Isabel Tellez Maza;75;curandero;M;148;7893 LDF
+Ana Segui Paredes;54;depositario de libros;M;196;1895 ZFY
+Daniel Lopez Cruz;51;diplomÁtico;H;132;6514 BCV
+Maria Concepcion Gonzalez Martin;39;doncella;M;149;1308 KBL
+Montserrat Perez Martinez;67;embajador/a;M;184;1328 YSR
+David Burgos Zapata;72;escolta;H;215;1672 JXW
+Maria Villa Fuster;51;escriba;M;60;6979 RBS
+Maria Ángeles Tercero Sanchez;54;escudero;M;89;0477 MXT
+Jose Vicente Garcia;25;escultor;H;210;2751 GJW
+Pilar Jorge Moreno;49;esgrimista;M;203;7970 YTS
+Alvaro Santos Mohamed;28;espadachIn;H;136;8011 BWP
+Ana Vallejo Garcia;51;fabricante de flechas;M;208;6812 GXG
+Jose Luis Sanz Pascual;43;fabricante de instrumentos;H;126;9318 VRR
+Santiago Garcia Robledo;79;filOsofo;H;209;0782 TJC
+Antonio Patiño Poveda;40;filOsofo/a;H;102;5238 KLM
+Ramon Tapia Garcia;46;flautista;H;196;7008 KBT
+Laura Medina Estevez;20;geOgrafo;M;47;7737 WHY
+Maria Luisa Mas Navarro;34;grumete;M;73;7290 ZYY
+Miguel Millan Guerrero;27;guardabosques;H;219;0787 MFV
+Jose Serra Campos;33;guerrero;H;96;1948 FXZ
+Maria Gonzalez Rey;44;guerrero reconocido, gran guerrero;M;128;4984 PTY
+Maria Carmen Gomez Diaz;20;heraldo correo;M;221;9757 RCR
+Pedro Diaz Bautista;62;heraldo vate;H;130;4940 MJX
+Pilar Pena Quintas;72;herborista;M;85;1913 NMN
+Jose Fernandez Garces;65;hEroe;H;186;6287 BHF
+Laura Martinez Garcia;64;herrero;M;214;5620 KTS
+Jose Salazar Martin;22;historiador/a;H;187;9492 RTF
+Fernando Sanchez Fernandez;19;hortelano;H;244;3988 WNS
+Oscar Martinez Lopez;75;jardinero;H;197;8112 NTY
+Maria Jose Gonzalez Fernandez;54;joyero;M;198;3505 PYT
+Jorge Ribas Carazo;60;lacayo;H;85;4423 RGV
+Enrique Ponce Cerezo;31;lamparero;H;157;0346 NNV
+Isabel Martinez Gallego;21;lancero;M;53;6409 ZKP
+Raul Barrios Alfonso;67;leñador;H;159;8171 FWB
+Jose Burgos Rodriguez;47;maestro artesano;H;205;3640 MSP
+Miguel Ángel Álvarez Fernandez;25;maestro cantor;H;134;2412 GSF
+Jose Maria Robles Fernandez;70;maestro de guerreros;H;83;5794 YVY
+Juan Jose Lopez Gonzalez;74;maestro/a del saber;H;67;1345 CXN
+Raquel Serrano Cordoba;34;marinero;M;218;3629 VVD
+Josep Conde Castro;24;matemÁtico/a;H;66;8859 WCR
+Maria Garcia Gonzalez;36;mayordomo;M;115;9066 JPJ
+Maria Teresa Cuevas Torres;34;minero;M;71;3934 LVH
+Luis Garcia Andreu;71;montañEs;H;68;4454 VWT
+Ramon Marin Diaz;48;narrador/a;H;204;8891 FTJ
+Manuel Gonzalez Sanchez;40;orfebre;H;248;6877 TRY
+Angel Gonzalez Martinez;19;palafrenero;H;53;0353 MCM
+Julia Noguera Paredes;45;panadero;M;190;0654 FVH
+Francisco Javier Reyes Oliva;58;panadero/a;H;145;8657 RRZ
+Antonio Picazo Moreno;57;pastor;H;132;8702 DFT
+Carlos Vera Fernandez;40;peregrino;H;57;7097 YBL
+Isabel Garrido Jurado;64;pescador;M;81;5126 VYB
+Pedro Galvez España;69;platero;H;63;2179 YSW
+Antonio Herrera Gonzalez;63;poeta/isa;H;178;9836 JNT
+Pilar Rodriguez Diaz;76;protector;M;100;4544 WYK
+Julian Moreno Garcia;35;sabio;H;171;1976 DGG
+Francisco Ponce Linares;18;sabio/a versado/a;H;147;9525 BLR
+Francisco Martinez Jimenez;76;sanador;H;100;4621 FBJ
+Maria Luisa Maldonado Lopez;57;sastre/a;M;228;8770 YKD
+Jose Manuel Cadenas Palomino;58;secretario;H;103;2938 DMY
+Javier Vazquez Escobar;53;segundo de a bordo;H;211;3260 MFZ
+Begoña Serrano Requena;46;señor de los ejErcitos;M;182;1426 JLV
+Manuela Merino Carrasco;72;sommellier;M;237;9191 WHD
+Enrique Coto Sanchez;45;tejedor/a;H;181;7147 YNL
+Josep Caño Chica;58;trovador/esa;H;173;2077 DCX
