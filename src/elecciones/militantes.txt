@@ -1,18 +1,4 @@
-Esperanza Lopez Nadal;26;alcalde;M;127;4931 SCN
-Javier Ruiz Marti;50;alfarero;H;211;7832 BBD
-Manuel Valle Melero;41;amanuense;H;176;3146 YBH
-Jose Luis Plaza Carmona;26;aprendiz (de artesano);H;153;2004 WBM
-Josefa Moral Navarro;31;aprendiz de historiador;M;122;6785 XTG
-Rafael Gonzalez Navarro;61;aprendiz de sanador;H;235;8772 SSR
-Manuel Torres Revuelta;48;aprendiz de vinatero;H;69;1424 KHP
-Ana Isabel Álvarez Rodriguez;38;arpista;M;66;4055 KDS
-Inmaculada Garcia Colmenero;39;arquero;M;231;4121 TNJ
-Ana Gil Rodriguez;62;artista;M;242;9397 JTS
-Jesus Gijon Diallo;71;astrOnomo;H;105;6749 HHV
-Manuel Lopez Castellanos;58;bibliotecario;H;93;4056 ZJR
-Alberto Martin Canet;33;bibliotecario jefe;H;68;4797 CYN
-Isabel Lopez Soto;20;bufOn;M;144;5655 ZRZ
-Antonio Carracedo Yepes;66;buhonero;H;130;9346 CLD
+﻿Antonio Carracedo Yepes;66;buhonero;H;130;9346 CLD
 Carme Villegas Rodrigo;34;caballero;M;212;1580 WJR
 Maria Teresa Casado Ortega;33;calculista;M;211;2258 MFV
 Manuel Asencio Gallego;48;camarero/a;H;60;8627 DKH
